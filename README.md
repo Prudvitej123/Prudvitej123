@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bole Prudvi
 
-<!--
-**Prudvitej123/Prudvitej123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | AWS | Kubernetes | Terraform | Python
 
-Here are some ideas to get you started:
+📍 Bangalore, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- DevOps Engineer with 3 years of experience
+- AWS Cloud & Infrastructure Automation
+- Kubernetes & Docker
+- CI/CD using Jenkins
+- Infrastructure as Code using Terraform
+- Monitoring with Prometheus & Grafana
+
+### Skills
+
+#### Cloud
+AWS (EC2, EKS, IAM, VPC, S3)
+
+#### DevOps Tools
+Jenkins, Docker, Kubernetes, Terraform
+
+#### Monitoring
+Prometheus, Grafana, CloudWatch
+
+#### Scripting
+Python, Bash
+
+### Connect With Me
+- Email: prudvigowd2002@gmail.com
+- phone:9392459107
